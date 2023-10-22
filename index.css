@@ -1,0 +1,25 @@
+.flex-conteiner {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    flex-flow: row wrap;
+    width: 80%;
+
+    flex-direction: row;
+    flex: 2000px;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+
+.column {
+
+    flex: 1;
+}
+
+.column-2 {
+    flex: 1;
+}
